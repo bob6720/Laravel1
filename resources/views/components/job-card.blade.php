@@ -8,9 +8,9 @@
 
                 <div>
                     <div class="flex justify-between items-center mt-auto">
-                        <a href="#" class="bg-white/10 hover:bg-white/25 px-2 py-1 rounded-xl text-xs transition-colors duration-300">Tags</a>
-                        <a href="#" class="bg-white/10 hover:bg-white/25 px-2 py-1 rounded-xl text-xs transition-colors duration-300">Tags</a>
-                        <a href="#" class="bg-white/10 hover:bg-white/25 px-2 py-1 rounded-xl text-xs transition-colors duration-300">Tags</a>
+                        <x-tag>Tag</x-tag>
+                        <x-tag>Tag</x-tag>
+                        <x-tag>Tag</x-tag>
                     </div>
 
                     <img src="http://placehold. t/42/42" alt="" class="rounded-xl">
