@@ -3,5 +3,6 @@
         @csrf
         @method($attributes->get('method'))
     @endif
+
     {{ $slot }}
 </form>
